@@ -1,10 +1,18 @@
-Hello, I'm Jivoryy. Welcome to my Github profile.
+## Hello, I'm Jivoryy. Welcome to my Github profile.
 
-Currently sitting in Yogyakarta, ID and seeking for a full-time job as a developer.
+---
 
-I don't have any good project for now. I hope we can develop something awesome if you interested.
+### Currently sitting in Yogyakarta, ID and seeking for a full-time job as a developer.
 
-Reach me on Twitter @jivoryy
+### I don't have any good project for now. I hope we can develop something awesome if you interested.
+
+#### Reach me on Twitter @jivoryy
+
+---
+
+#### CodeWars
+
+![Codewars Profile : jivoryy](https://www.codewars.com/users/jivoryy/badges/small)
 
 <!---
 jivoryy/jivoryy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
