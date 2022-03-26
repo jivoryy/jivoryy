@@ -4,7 +4,7 @@
 
 ### Currently sitting in Yogyakarta, ID and seeking for a full-time job as a developer.
 
-### I don't have any good project for now. I hope we can develop something awesome if you interested.
+### I'm not working in any project for now. I hope we can develop something awesome if you interested.
 
 #### Reach me on Twitter @jivoryy
 
