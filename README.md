@@ -2,11 +2,11 @@
 
 ---
 
-### Currently sitting in Yogyakarta, ID and seeking for a full-time job as a developer.
+### Currently sitting in Jakarta, ID and seeking for a part-time job as a developer.
 
-### I'm not working in any project for now. I hope we can develop something awesome if you interested.
+### I'm not working in any side project for now. I hope we can develop something awesome if you interested.
 
-#### Reach me on Twitter @jivoryy
+#### Reach me on Twitter or IG @jivoryy
 
 ---
 
